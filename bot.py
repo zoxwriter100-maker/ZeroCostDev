@@ -366,4 +366,4 @@ async def help_cmd(interaction: discord.Interaction):
 async def on_ready():
     print(f"Logged in as {client.user}")
 
-client.run(os.environ["DISCORD_TOKEN"])
+client.run(os.environ["MTU1OTk5MDM1Mzc3NDM3OTE4OA.GrRX9n.EvN4WH2IjBF2_VWu2bLQMWj3Bxh9coXjDASHTo"])
