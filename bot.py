@@ -1,3 +1,5 @@
+from dotenv import load_dotenv
+load_dotenv()
 import os, json, asyncio, random, time
 from datetime import timedelta
 import discord
